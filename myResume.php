@@ -17,7 +17,7 @@
 </head>
 <body>
     <?php
-    include "menuBar.php";
+    include "controlBar.php";
     ?>
     <div class="container">
         <div class="container" style="text-align: center;">
