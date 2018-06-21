@@ -15,6 +15,9 @@
         <?php
         include "menuBar.php";
         ?>
+    <!-- home-sec -->
+    <div class="container" id="home-sec">
         <h1>Hello World</h1>
+    </div>
     </body>
 </html>
